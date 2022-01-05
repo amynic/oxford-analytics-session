@@ -15,12 +15,22 @@ The data science team have been tasked with:
 
 * **Section 1:** Explore the [London Borough Google Activity dataset](https://data.london.gov.uk/dataset/public-transport-journeys-type-transport) in Power BI and form hypothesis about the historical data. Connect a second dataset to the insights in Power BI ([COVID-19 Restrictions Time series - London Datastore](https://data.london.gov.uk/dataset/covid-19-restrictions-timeseries))
 
+[Go to section 1](../section-1/readme-section-1.md)
+
 * **Section 2:** Now we understand the data, create and share Power BI reports/dashboards with business users at Tailwind Traders. Tell a story back to the business of the data and recommend some next steps for further investigation
+
+[Go to section 2](../section-2/readme-section-2.md)
+
 * **Section 3:** One recommendation will be introducing IoT technologies in and around the current stores to understand more about footfall. Paul DeCarlo will share insights on architecture patterns for Computer Vision running on an IoT edge device and interacting with Azure
+
+[Go to section 3](../section-3/readme-section-3.md)
+
 * **Section 4:** Further recommendations will include forecasting and operational efficiency which can be achieved using AI solutions
     * Starting with an **Azure Machine Learning code-based solution** to show future forecasting of activity in London boroughs which can help Tailwind Traders make decisions on where to place new stores given the pandemic changes to activity
 	* Talking about the pro's and con's of using a code-based solution and introducing the no-code opportunity with **AI Builder as a part of the Power Platform**
 	* Building a **forms recognizer solution** for analysing Tailwind Traders receipts and invoices with no-code (using AI Builder and Power Automate)
+
+[Go to section 4](../section-4/readme-section-4.md)
 
 ### Case Study and Student Exercise:
 *(same storyline continued…)*
