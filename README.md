@@ -1,19 +1,17 @@
-# Oxford Analytics Session
+# Oxford University Analytics Session
+## Saturday 8th January 2022
 
-## Oxford University Session: 
-### Saturday 8th January 2022
-
-#### Storyline: 
+### Storyline: 
 Tailwind Traders are DIY, Home and Garden store in and around the London area. The COVID19 pandemic has really shook up the business and priorities, they need deeper insight into where to focus precious time, money and resources in investing in their future. Tailwind traders have employed us as their data science consultant team to help them form a data driven plan for the next financial year
 
-#### Session Detail:
+### Session Detail:
 The data science team have been tasked with:
 * Understanding the impact of COVID 19 and change in peoples lifestyle patterns in London Boroughs
 * Recommend the top 3 areas for Tailwind Traders stores to consider for future investment
 * Share cutting edge Internet of Things solutions for understanding footfall in and around the business
 * Create AI solutions that support operational efficiency and future predictions into the state of the business 
 
-#### Session Breakdown:
+### Session Breakdown:
 
 * **Section 1:** Explore the [London Borough Google Activity dataset](https://data.london.gov.uk/dataset/public-transport-journeys-type-transport) in Power BI and form hypothesis about the historical data. Connect a second dataset to the insights in Power BI ([COVID-19 Restrictions Time series - London Datastore](https://data.london.gov.uk/dataset/covid-19-restrictions-timeseries))
 
@@ -24,7 +22,7 @@ The data science team have been tasked with:
 	* Talking about the pro's and con's of using a code-based solution and introducing the no-code opportunity with **AI Builder as a part of the Power Platform**
 	* Building a **forms recognizer solution** for analysing Tailwind Traders receipts and invoices with no-code (using AI Builder and Power Automate)
 
-#### Case Study and Student Exercise:
+### Case Study and Student Exercise:
 *(same storyline continued…)*
 
 Tailwind Traders are DIY, Home and Garden store in and around the London area. The COVID19 pandemic has really shook up the business and priorities, they need deeper insight into where to focus precious time, money and resources in investing in their future. Tailwind traders have employed us as their data science consultant team to help them form a data driven plan for the next financial year.
