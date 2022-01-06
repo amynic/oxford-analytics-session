@@ -5,4 +5,7 @@ Further recommendations will include forecasting and operational efficiency whic
 * Talking about the pro's and con's of using a code-based solution and introducing the **no-code opportunity with AI Builder** as a part of the Power Platform
 * **Building a forms recognizer solution** for analysing Tailwind Traders receipts and invoices with no-code (using AI Builder and Power Automate)
 
+## AI Builder Demo
+Review how we built and implemented our AI Builder Forms Recogniser model without writing a line of code: [Video link](https://youtu.be/6IomHEWQ7t8)
+
 ## Extra Reading Links:
