@@ -41,6 +41,6 @@ As the new Data Science lead on the project you are tasked with:
 * Explore the [Public Transport Journeys by Type of Transport - London Datastore open dataset](https://data.london.gov.uk/dataset/public-transport-journeys-type-transport) to understand types of journeys people are making around London using Power BI.
 * Add a page to the Power BI report shared with Tailwind Traders in round one of investigations
 * Recreate the forms recognizer solution for analysing Tailwind Traders receipts and invoices with no-code using AI Builder and build this functionality into a Power App
-* Advanced: explore [https://api.tfl.gov.uk](https://api.tfl.gov.uk) to see if you can connect any further transport and activity patterns around London for Tailwind Traders
+* BONUS: explore [https://api.tfl.gov.uk](https://api.tfl.gov.uk) to see if you can connect any further transport and activity patterns around London for Tailwind Traders
 
 >> **[Go to Student Exercise](/student-exercise/readme-student-exercise.md)**
