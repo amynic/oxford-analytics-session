@@ -1,6 +1,6 @@
 ## Section 3: 
 
-We are now ready to introduce how to employ various IoT technologies in and around our stores to analyze footfall using a production-grade architecture that allows for remote management, over the air updates, and customized reporting. In this section, Paul DeCarlo will share insights on architecture patterns for Computer Vision using Azure IoT Edge and Azure IoT services running on NVIDIA Jetson Hardware.
+We are now ready to introduce how to employ various IoT technologies in and around our stores to analyze footfall using a production-grade architecture that allows for remote management, over the air updates, and customized reporting. In this section, Paul DeCarlo will share insights on implementation patterns for Computer Vision using Azure IoT Edge and Azure IoT services running on NVIDIA Jetson Hardware.
 
 ## Extra Reading Links:
 

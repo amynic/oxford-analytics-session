@@ -19,7 +19,7 @@ The data science team have been tasked with:
 * **Section 2:** Now we understand the data, create and share Power BI reports/dashboards with business users at Tailwind Traders. Tell a story back to the business of the data and recommend some next steps for further investigation
 >> **[Go to section 2](/section-2/readme-section-2.md)**
 
-* **Section 3:** One recommendation will be introducing IoT technologies in and around the current stores to understand more about footfall. Paul DeCarlo will share insights on architecture patterns for Computer Vision running on an IoT edge device and interacting with Azure
+* **Section 3:** We are now ready to introduce how to employ various IoT technologies in and around our stores to analyze footfall using a production-grade architecture that allows for remote management, over the air updates, and customized reporting. In this section, Paul DeCarlo will share insights on implementation patterns for Computer Vision using Azure IoT Edge and Azure IoT services running on NVIDIA Jetson Hardware.
 >> **[Go to section 3](/section-3/readme-section-3.md)**
 
 * **Section 4:** Further recommendations will include forecasting and operational efficiency which can be achieved using AI solutions
