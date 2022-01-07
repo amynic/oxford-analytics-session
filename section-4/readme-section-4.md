@@ -8,4 +8,6 @@ Further recommendations will include forecasting and operational efficiency whic
 ## AI Builder Demo
 Review how we built and implemented our AI Builder Forms Recogniser model without writing a line of code: [Video link](https://youtu.be/6IomHEWQ7t8)
 
+![AI Builder Demo Visual](section-4-aibuilder-demo.png)
+
 ## Extra Reading Links:
